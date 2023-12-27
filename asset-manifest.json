@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.0476bdd3.css",
+    "main.js": "/myportfolio/static/js/main.f15a2d4d.js",
+    "static/media/internship.jpg": "/myportfolio/static/media/internship.7f8088ea189313284b90.jpg",
+    "static/media/certificate2.jpg": "/myportfolio/static/media/certificate2.a08f45d60179acd55dca.jpg",
+    "static/media/certificate cd.jpg": "/myportfolio/static/media/certificate cd.030fa43fe989a5f72865.jpg",
+    "static/media/certificate cd 1.jpg": "/myportfolio/static/media/certificate cd 1.40c8b36a8287cff47145.jpg",
+    "static/media/project 1.jpg": "/myportfolio/static/media/project 1.fb83473409ad0547e1c2.jpg",
+    "static/media/project 2.jpg": "/myportfolio/static/media/project 2.d487de6ddd29dca40f84.jpg",
+    "static/media/certificate ud.jpg": "/myportfolio/static/media/certificate ud.a99399382a4cb528cfc5.jpg",
+    "static/media/image.png": "/myportfolio/static/media/image.e7bee027b28429efd543.png",
+    "static/media/logo.png": "/myportfolio/static/media/logo.1e72dfa38b3c4778a7c1.png",
+    "static/media/facebook.png": "/myportfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/myportfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/myportfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/myportfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/myportfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/myportfolio/index.html",
+    "main.0476bdd3.css.map": "/myportfolio/static/css/main.0476bdd3.css.map",
+    "main.f15a2d4d.js.map": "/myportfolio/static/js/main.f15a2d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0476bdd3.css",
+    "static/js/main.f15a2d4d.js"
+  ]
+}
